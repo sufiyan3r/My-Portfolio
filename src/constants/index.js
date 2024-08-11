@@ -211,7 +211,7 @@ import {
         },
       ],
       image: elearning,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sufiyan3r",
     },
     {
       name: "POS (Point-of-Sale) Sys",
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: rise,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://sr-rise-portfolio.netlify.app/",
     },
     {
       name: "MAUI Weather App",
@@ -279,7 +279,7 @@ import {
         },
       ],
       image: weather,
-      source_code_link: "https://github.com/sufiyan3r/pos-system",
+      source_code_link: "https://github.com/sufiyan3r",
     },
     {
       name: "Forex Currency Tracker",
@@ -300,7 +300,7 @@ import {
         },
       ],
       image: forex,
-      source_code_link: "https://github.com/sufiyan3r/pos-system",
+      source_code_link: "https://github.com/sufiyan3r",
     },
     {
       name: "Cross Site Scripting (XSS)",
@@ -321,7 +321,7 @@ import {
         },
       ],
       image: xss,
-      source_code_link: "https://github.com/sufiyan3r/pos-system",
+      source_code_link: "https://reflected-xss.netlify.app/",
     },
   ];
   
