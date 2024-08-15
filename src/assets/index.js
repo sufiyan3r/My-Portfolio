@@ -27,7 +27,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import mmu from "./company/mmu.png";
-import idrive from "./company/idrive.png";
 
 import pos from "./pos.png";
 import elearning from "./elearning.png";
@@ -64,7 +63,6 @@ export {
   typescript,
   threejs,
   mmu,
-  idrive,
   pos,
   elearning,
   xss,

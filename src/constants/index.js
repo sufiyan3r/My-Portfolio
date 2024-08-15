@@ -21,7 +21,6 @@ import {
     figma,
     docker,
     mmu,
-    idrive,
     pos,
     xss,
     elearning,
@@ -146,21 +145,18 @@ import {
   
   const experiences = [
     {
-      title: "Business Service Representative",
-      company_name: "iDrive Manchester (Professional Services)",
-      icon: idrive,
+      title: "Software Developer",
+      icon: programming,
+      company_name: "Freelance",
       iconBg: "#ffffff",
-      date: "Jan 2023 - Ongoing",
+      date: "Jan 2024 - Present",
       points: [
-        "Responded to customer enquiries with professional, knowledgeable service and support, via phone and email.",
-        "Listened actively to offer accurate information about business services and best solution to customer needs.",
-        "Improved operational efficiency for stakeholders, enhancing day-to-day task performance.",
-        "Monitored administrative processes to uphold high-quality standards and ensured compliance with SLAs.",
-        "Prepared financial reports/models, provided insights and recommendations based on analysis of key metrics.",
-        "Provided administrative support for strategic initiatives and projects.",
-        "Documented department data and compiled accurate reports in MS Excel.",
-        "Monitored progress and report on the implementation of strategic goals.",
-        "Managed calendars, scheduled, and coordinated driving test bookings/appointments.",
+        "Designed and developed a variety of tailored software solutions across multiple industries, including retail, finance, and education, demonstrating adaptability and familiarity of software development lifecycle (SDLC).",
+        "Consistently leveraged the latest technologies, including React, HTML/CSS, C# and JavaScript, to provide innovative and efficient solutions tailored for each audience group, whilst understanding project requirements.",
+        "Demonstrated strong project management skills by handling all aspects of software development, from requirements gathering to design, coding, testing, and deployment. Also proficient with Agile development.",
+        "Developed software that directly improved client operations, such as automating sales processes, providing real-time data tracking, and creating scalable platforms, leading to increased efficiency and productivity.",
+        "Effectively addressed complex technical challenges, ensuring robust, secure, and scalable digital solutions.",
+        "Actively managed multiple projects simultaneously, whilst maintaining project quality.",
       ],
     },
     {
@@ -305,7 +301,7 @@ import {
     {
       name: "Cross Site Scripting (XSS)",
       description:
-        "An informative and interactive website designed to educate audiences about Cross-Site Scripting (Reflected XSS), focusing on its risks, causes, and preventive measures.",
+        "An informative website designed to educate intermediate audiences about Cross-Site Scripting (Reflected XSS) attacks, focusing on its risks, causes, and preventive measures.",
         tags: [
         {
           name: "HTML",
